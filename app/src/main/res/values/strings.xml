@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">habis.in</string>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="upload">upload</string>
+    <string name="image_from_user">image from user</string>
+    <string name="buy">buy</string>
+    <string name="price">Price</string>
+    <string name="freshness_level">Freshness Level</string>
+</resources>
