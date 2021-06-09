@@ -9,6 +9,10 @@ Our android app for Bangkit Capstone Project that can knowing the level of ripen
   <img src="https://user-images.githubusercontent.com/79259764/121327994-23c1f080-c93e-11eb-8139-4bdfd1336fba.jpg" width="200" />
 </p>
 
+# Tech Stack
+- Kotlin
+- Material Design
+- Retrofit
 
 ## Try it on 
 download [here](http://bit.ly/habisinapp) 
